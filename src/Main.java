@@ -23,8 +23,13 @@ public class Main {
         System.out.println(sim);
         System.out.println(num6);
         System.out.println(num7);
-        System.out.println(logic);
+
+
+//        System.out.println(logic)
+//
+//        User user = new User();
+//        user.setId(89);
+//        user.setLogin("asfd");
+//        System.out.println(user.getLogin());
     }
-
-
 }
